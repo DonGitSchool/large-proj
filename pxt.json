@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-wifi": "github:e-radionicacom/pxt-wifi#v1.0.1"
+        "pxt-wifi": "github:e-radionicacom/pxt-wifi#v1.0.1",
+        "neopixel": "github:Microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
         "main.blocks",
